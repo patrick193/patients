@@ -1,0 +1,13 @@
+c:\users\vblad\documents\visual studio 2013\Projects\patients3\patients3\bin\Debug\patients3.exe.config
+c:\users\vblad\documents\visual studio 2013\Projects\patients3\patients3\bin\Debug\Database1.accdb
+c:\users\vblad\documents\visual studio 2013\Projects\patients3\patients3\bin\Debug\patients3.exe
+c:\users\vblad\documents\visual studio 2013\Projects\patients3\patients3\bin\Debug\patients3.pdb
+c:\users\vblad\documents\visual studio 2013\Projects\patients3\patients3\obj\Debug\patients3.csprojResolveAssemblyReference.cache
+c:\users\vblad\documents\visual studio 2013\Projects\patients3\patients3\obj\Debug\patients3.Form1.resources
+c:\users\vblad\documents\visual studio 2013\Projects\patients3\patients3\obj\Debug\patients3.Properties.Resources.resources
+c:\users\vblad\documents\visual studio 2013\Projects\patients3\patients3\obj\Debug\patients3.csproj.GenerateResource.Cache
+c:\users\vblad\documents\visual studio 2013\Projects\patients3\patients3\obj\Debug\patients3.exe
+c:\users\vblad\documents\visual studio 2013\Projects\patients3\patients3\obj\Debug\patients3.pdb
+c:\users\vblad\documents\visual studio 2013\Projects\patients3\patients3\obj\Debug\patients3.ГЛАВНАЯcs.resources
+c:\users\vblad\documents\visual studio 2013\Projects\patients3\patients3\obj\Debug\patients3.ПОИСК.resources
+c:\users\vblad\documents\visual studio 2013\Projects\patients3\patients3\obj\Debug\patients3.analyz.resources
